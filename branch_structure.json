@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "task/predictions-cursor-v7"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "task/predictions-cursor-v7": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "task/predictions-cursor-v7"
+  ]
+}
